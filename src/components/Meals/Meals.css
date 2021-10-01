@@ -1,0 +1,16 @@
+.meals-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+  margin: 20px;
+}
+.meal-search input {
+  margin-top: 20px;
+  width: 50%;
+  height: 20px;
+  background-color: lightgray;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}

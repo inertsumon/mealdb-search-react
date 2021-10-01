@@ -1,0 +1,12 @@
+.header-container {
+  background-color: darkkhaki;
+  width: 100%;
+  font-size: 22px;
+  padding: 10px;
+}
+.header-link {
+  margin-right: 50px;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
